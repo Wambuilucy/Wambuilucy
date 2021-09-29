@@ -1,7 +1,7 @@
 # Heey Geeks... :hearts::wave:
 
 ## I am Lucie Kinyanjui.
-   :feet:  :feet:  :tulips:
+   :feet:  :feet:  
 ```
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
