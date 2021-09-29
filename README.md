@@ -29,7 +29,7 @@ const Lucie = {
   techCommunities: {
                         Manager: "my own managment", 
                         Building stuff: "Writting product code.",
-                        mentor: "Moringaschool" :evergreen_tree:
+                        mentor: "Moringaschool" 
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on Angular and typescript" 
 }
