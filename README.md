@@ -10,9 +10,9 @@
 class SoftwareEngineer:
 
     def __init__(self):
-        self.name = "Zhenye Na"
+        self.name = "Lucie"
         self.role = "Software Engineer"
-        self.language_spoken = ["zh_CN", "en_US"]
+        self.language_spoken = ["Swahili", "English"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
@@ -26,8 +26,8 @@ me.say_hi()
 const Lucie = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, Angular, Python, Django],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  tools: [React, stack overflow, Node, Storybook, Styled-Components, Github, Music],
+  architecture: ["microservices", "Funn", "design system pattern"],
   techCommunities: {
                         Manager: "my own managment",
                         Building stuff: "Writting product code.",
