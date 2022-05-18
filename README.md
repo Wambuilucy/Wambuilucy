@@ -23,7 +23,7 @@ me.say_hi()
 ```
 const Lucie = {
   pronouns: "she" | "her",  
-  code: [Javascript, Typescript, HTML, CSS, Angular, Python, Django], 
+  code: [Javascript, Typescript, HTML, CSS, Angular, Python, Django, React, Ruby], 
   tools: [React, stack overflow, Node, Storybook, Styled-Components, Github, Music],
   architecture: ["microservices", "Funn", "design system pattern"],
   techCommunities: {
