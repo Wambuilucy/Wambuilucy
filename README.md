@@ -31,7 +31,7 @@ const Lucie = {
                         Building stuff: "Writting product code.",
                         mentor: "Moringaschool" 
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on Angular and typescript" 
+ challenge: "I am doing the #100DaysOfCode challenge focused on Ruby and Ruby on rails" 
 }
 ```
 
